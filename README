@@ -1,0 +1,1 @@
+This is to enable gdb-ui with --annotate=3 rather than -i=mi.
